@@ -100,6 +100,12 @@ $(document).ready(() => {
             q: ['need website', 'get website', 'website help', 'help website'],
             a: 'Razviti (Discord: @Raz#1720) can help ya. He likes to create websites for people for free!',
             keywords: ['razviti', 'raz', 'website']
+        },
+        {
+            actualq: 'iLemmino?',
+            q: ['is ilemmino', 'know ilemmino'],
+            a: 'Do you know iLemmino?',
+            keywords: ['ilemmino']
         }
     ];
 
